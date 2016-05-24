@@ -1,0 +1,254 @@
+{
+  "articles": [{
+    "url": "https://medium.freecodecamp.com/dont-break-the-chain-why-github-s-streaks-will-be-sorely-missed-by-many-4fff90bc2a38?source=latest",
+    "title": "Don\u2019t break the chain: why we\u2019ll miss GitHub\u2019s streaks",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*CEi35YFI3DqbuAu0jAhFYA.jpeg",
+    "author": "Quincy Larson"
+  }, {
+    "url": "https://medium.freecodecamp.com/learn-es6-the-dope-way-part-ii-arrow-functions-and-the-this-keyword-381ac7a32881?source=latest",
+    "title": "Learn ES6 The Dope Way Part II: Arrow functions and the \u2018this\u2019 keyword",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*PzdzDAC5S1avC0ERZ7lTuw.jpeg",
+    "author": "Masha Diminsky"
+  }, {
+    "url": "https://medium.freecodecamp.com/javascript-is-turing-complete-explained-41a34287d263?source=latest",
+    "title": "JavaScript Is Turing Complete\u2014 Explained",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*A71SgWT85nj_z5VC.jpeg",
+    "author": "rajaraodv"
+  }, {
+    "url": "https://medium.freecodecamp.com/free-code-camps-1-000-study-groups-are-now-fully-autonomous-d40a3660e292?source=latest",
+    "title": "Free Code Camp\u2019s 1,000+ study groups are now fully autonomous",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*d_cBUnLhDhddO4UY.jpeg",
+    "author": "Justin Sane"
+  }, {
+    "url": "https://medium.freecodecamp.com/an-introduction-to-microservices-2705e7758f9?source=latest",
+    "title": "An Introduction to Microservices",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*XSsraRFxwE0Cp6hu7uD78Q.jpeg",
+    "author": "Sanchit Gera"
+  }, {
+    "url": "https://medium.freecodecamp.com/understanding-asynchronous-javascript-callbacks-through-household-chores-e3de9a1dbd04?source=latest",
+    "title": "Understanding Asynchronous JavaScript Callbacks Through Household Chores",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*iPQyzMUIKuv0xn7YhOsw6Q.jpeg",
+    "author": "Stephen Mayeux"
+  }, {
+    "url": "https://medium.freecodecamp.com/youre-already-ready-for-your-first-hackathon-b585aca54b93?source=latest",
+    "title": "You\u2019re Already Ready for Your First Hackathon",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*Dx-0V-0tokJOP5z8fdTNNA.jpeg",
+    "author": "Collin Ferry"
+  }, {
+    "url": "https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02?source=latest",
+    "title": "From Zero to Front-end Hero (Part 1)",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*XEyMr6O5q12Uq0e9HrQvJQ.jpeg",
+    "author": "Jonathan Z. White"
+  }, {
+    "url": "https://medium.freecodecamp.com/networking-at-meet-ups-getting-hired-f0f7c4f4681a?source=latest",
+    "title": "How going to coding events helped me get an awesome job",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*rz1DndjkG2hcWiH0.jpg",
+    "author": "Gwendolyn Faraday"
+  }, {
+    "url": "https://medium.freecodecamp.com/the-design-process-a-pyramid-c77135c177d4?source=latest",
+    "title": "The Design Process: A Pyramid",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*qwO3jdYkB4k7KoLOiud_FA.jpeg",
+    "author": "William Newton"
+  }, {
+    "url": "https://medium.freecodecamp.com/please-do-learn-to-code-233597dd141c?source=latest",
+    "title": "Please do learn to code",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*CEi35YFI3DqbuAu0jAhFYA.jpeg",
+    "author": "Quincy Larson"
+  }, {
+    "url": "https://medium.freecodecamp.com/lets-explore-the-universe-of-programming-resources-together-77ff382a4c52?source=latest",
+    "title": "Let\u2019s explore the universe of programming resources together",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*CEi35YFI3DqbuAu0jAhFYA.jpeg",
+    "author": "Quincy Larson"
+  }, {
+    "url": "https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645?source=latest",
+    "title": "How to Get a Developer Job in Less Than a Year",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*97pwnOJXkR5MscX_rWVsxQ.png",
+    "author": "Alexander Kallaway"
+  }, {
+    "url": "https://medium.freecodecamp.com/a-podcast-launch-story-case-study-230222b95653?source=latest",
+    "title": "A podcast launch story (case study)",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*oHYB48A2fnNcvhM1TISTRA.jpeg",
+    "author": "Laurence Bradford"
+  }, {
+    "url": "https://medium.freecodecamp.com/5-mistakes-to-avoid-when-designing-micro-interactions-a6f638ee6a86?source=latest",
+    "title": "5 Mistakes to Avoid When Designing Micro-interactions",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*tvD4T9FGkSf5zGjjpkTzUA.jpeg",
+    "author": "Issara Willenskomer"
+  }, {
+    "url": "https://medium.freecodecamp.com/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc?source=latest",
+    "title": "The best podcasts for new coders, and the best tools for listening to them",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*e86QNgv4wB7X41N9.jpeg",
+    "author": "Ayo Isaiah"
+  }, {
+    "url": "https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237?source=latest",
+    "title": "Cracking the front-end interview",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*XEyMr6O5q12Uq0e9HrQvJQ.jpeg",
+    "author": "Jonathan Z. White"
+  }, {
+    "url": "https://medium.freecodecamp.com/building-open-source-communities-node-pixel-afbe9fffc1b2?source=latest",
+    "title": "Building Online Communities: Node-Pixel.",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*Vrsgi6r4Y0T_P9nd.png",
+    "author": "Gitter"
+  }, {
+    "url": "https://medium.freecodecamp.com/app-launch-marketing-checklist-in-just-3-days-367d1ae3c3b?source=latest",
+    "title": "App Launch Marketing Checklist in just 3 Days",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*FUjwOOpVfsndBtyq.png",
+    "author": "Gabriel Machuret"
+  }, {
+    "url": "https://medium.freecodecamp.com/how-design-decisions-are-made-c18201c052d1?source=latest",
+    "title": "How Product Design Decisions are Made",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*gVlKtkLYZoKk24IeA2ySlg.jpeg",
+    "author": "Tanner Christensen"
+  }, {
+    "url": "https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781?source=latest",
+    "title": "We asked 15,000 people who they are, and how they\u2019re learning to code",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*CEi35YFI3DqbuAu0jAhFYA.jpeg",
+    "author": "Quincy Larson"
+  }, {
+    "url": "https://medium.freecodecamp.com/what-i-learned-as-an-esl-teacher-will-help-you-learn-how-to-code-32a348afdd00?source=latest",
+    "title": "Learn to code like a Korean student learns English",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*iPQyzMUIKuv0xn7YhOsw6Q.jpeg",
+    "author": "Stephen Mayeux"
+  }, {
+    "url": "https://medium.freecodecamp.com/how-to-learn-web-design-when-you-have-the-creativity-of-homer-simpson-a22c0452c99e?source=latest",
+    "title": "How to learn web design when you have the creativity of Homer Simpson",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*-D_MUxpkTJ8EppIo.jpg",
+    "author": "Kevin Kononenko"
+  }, {
+    "url": "https://medium.freecodecamp.com/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053?source=latest",
+    "title": "Model-View-Controller (MVC) Explained Through Ordering Drinks At The Bar",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*-D_MUxpkTJ8EppIo.jpg",
+    "author": "Kevin Kononenko"
+  }, {
+    "url": "https://medium.freecodecamp.com/learn-es6-the-dope-way-i-const-let-var-ae828580472b?source=latest",
+    "title": "Learn ES6 The Dope Way Part I: const, let & var",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*PzdzDAC5S1avC0ERZ7lTuw.jpeg",
+    "author": "Masha Diminsky"
+  }, {
+    "url": "https://medium.freecodecamp.com/best-gitter-channels-for-ios-developers-173b32627ce1?source=latest",
+    "title": "Best Gitter channels for: iOS Developers",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*Vrsgi6r4Y0T_P9nd.png",
+    "author": "Gitter"
+  }, {
+    "url": "https://medium.freecodecamp.com/best-gitter-channels-material-design-2b137171083f?source=latest",
+    "title": "Best Gitter channels: Material Design",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*Vrsgi6r4Y0T_P9nd.png",
+    "author": "Gitter"
+  }, {
+    "url": "https://medium.freecodecamp.com/building-online-communities-numenta-9053ad89bb23?source=latest",
+    "title": "Building online communities: Numenta",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*Vrsgi6r4Y0T_P9nd.png",
+    "author": "Gitter"
+  }, {
+    "url": "https://medium.freecodecamp.com/best-gitter-channels-developer-tools-719549789ba4?source=latest",
+    "title": "Best Gitter channels: Developer Tools",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*Vrsgi6r4Y0T_P9nd.png",
+    "author": "Gitter"
+  }, {
+    "url": "https://medium.freecodecamp.com/building-online-communities-hazelcast-b26b0609890d?source=latest",
+    "title": "Building online communities: Hazelcast",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*Vrsgi6r4Y0T_P9nd.png",
+    "author": "Gitter"
+  }, {
+    "url": "https://medium.freecodecamp.com/best-gitter-channels-for-game-developers-49ca45c92351?source=latest",
+    "title": "Best Gitter channels for: Game Developers",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*Vrsgi6r4Y0T_P9nd.png",
+    "author": "Gitter"
+  }, {
+    "url": "https://medium.freecodecamp.com/best-gitter-channels-for-data-science-machine-learning-6e8eeb5063c0?source=latest",
+    "title": "Best Gitter Channels for: Data Science & Machine Learning",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*Vrsgi6r4Y0T_P9nd.png",
+    "author": "Gitter"
+  }, {
+    "url": "https://medium.freecodecamp.com/startup-accelerator-comparison-y-combinator-vs-techstars-b4080d0c93c8?source=latest",
+    "title": "Startup Accelerator Comparison: Y Combinator VS Techstars",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*u8YffuBLzX_2rHWOqcvk9A.jpeg",
+    "author": "Weiting Liu"
+  }, {
+    "url": "https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44?source=latest",
+    "title": "Let\u2019s Learn JavaScript Closures",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*lHIefjTQECM96G6Ef8xn6g.jpeg",
+    "author": "Preethi Kasireddy"
+  }, {
+    "url": "https://medium.freecodecamp.com/hiring-juniors-52e4aaf9d778?source=latest",
+    "title": "Stop asking senior developers who aren\u2019t looking. Start mentoring juniors.",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*JLPISwkXERAEayXe.jpeg",
+    "author": "Ryan Bigg"
+  }, {
+    "url": "https://medium.freecodecamp.com/why-is-hiring-broken-it-starts-at-the-whiteboard-34b088e5a5db?source=latest",
+    "title": "Why is hiring broken? It starts at the whiteboard.",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*CEi35YFI3DqbuAu0jAhFYA.jpeg",
+    "author": "Quincy Larson"
+  }, {
+    "url": "https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c?source=latest",
+    "title": "Being A Developer After 40",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*Jj7UBkHbWMFNOgz2EkO-OA.jpeg",
+    "author": "Adrian Kosmaczewski"
+  }, {
+    "url": "https://medium.freecodecamp.com/south-korea-will-pay-you-to-learn-coding-5947fa625659?source=latest",
+    "title": "South Korea Is a Self-Taught Coder\u2019s Paradise",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*iPQyzMUIKuv0xn7YhOsw6Q.jpeg",
+    "author": "Stephen Mayeux"
+  }, {
+    "url": "https://medium.freecodecamp.com/how-long-does-free-code-camp-take-f986202346ef?source=latest",
+    "title": "How Long Does Free Code Camp Take?",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*Dx-0V-0tokJOP5z8fdTNNA.jpeg",
+    "author": "Collin Ferry"
+  }, {
+    "url": "https://medium.freecodecamp.com/how-jpg-works-a4dbd2316f35?source=latest",
+    "title": "How JPG Works",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*bW2MamPPP1MeRjVP.jpg",
+    "author": "Colt McAnlis"
+  }, {
+    "url": "https://medium.freecodecamp.com/mongodb-point-in-time-recoveries-or-how-we-saved-600-dollars-a-month-and-got-a-better-backup-55466b7d714?source=latest",
+    "title": "MongoDB point-in-time recoveries",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*Vrsgi6r4Y0T_P9nd.png",
+    "author": "Gitter"
+  }, {
+    "url": "https://medium.freecodecamp.com/building-a-twitchtv-app-project-8824d61fe7a5?source=latest",
+    "title": "Building a TwitchTV Status App",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*e86QNgv4wB7X41N9.jpeg",
+    "author": "Ayo Isaiah"
+  }, {
+    "url": "https://medium.freecodecamp.com/how-to-silence-your-javascript-console-8fcdd96997f7?source=latest",
+    "title": "How to silence your JavaScript console",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*JcqqONOslAFYnZIW-0SRKg.jpeg",
+    "author": "Shakeel Mohamed"
+  }, {
+    "url": "https://medium.freecodecamp.com/one-way-to-greatness-pick-yourself-31945487731b?source=latest",
+    "title": "One way to Greatness: Pick Yourself",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*-kqhhb24fzA5QqSY.jpeg",
+    "author": "Prosper Otemuyiwa"
+  }, {
+    "url": "https://medium.freecodecamp.com/the-art-of-computer-programming-by-donald-knuth-82e275c8764f?source=latest",
+    "title": "\u201cThe Art of Computer Programming\u201d by Donald Knuth",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*bZ7giVP26wnbEPWxifUQlw.jpeg",
+    "author": "Carl Tashian"
+  }, {
+    "url": "https://medium.freecodecamp.com/medium-isn-t-just-startup-people-30a3752b09b9?source=latest",
+    "title": "Medium isn\u2019t just startup people",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*CEi35YFI3DqbuAu0jAhFYA.jpeg",
+    "author": "Quincy Larson"
+  }, {
+    "url": "https://medium.freecodecamp.com/javascript-callbacks-explained-using-minions-da272f4d9bcd?source=latest",
+    "title": "JavaScript Callbacks Explained Using Minions",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*-D_MUxpkTJ8EppIo.jpg",
+    "author": "Kevin Kononenko"
+  }, {
+    "url": "https://medium.freecodecamp.com/101-ways-to-make-your-website-more-awesome-79c934dd2a11?source=latest",
+    "title": "101 Ways to Make Your Website More Awesome",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*EMjTy9b2cCSM5ggj.png",
+    "author": "Nicholas Tart"
+  }, {
+    "url": "https://medium.freecodecamp.com/what-is-product-design-9709572cb3ff?source=latest",
+    "title": "What is Product Design?",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*Lt7ArxcOgHLH1XQR.jpeg",
+    "author": "eric eriksson"
+  }, {
+    "url": "https://medium.freecodecamp.com/how-to-design-a-bot-protocol-4b7584fc8d2c?source=latest",
+    "title": "How to Design a Bot Protocol",
+    "avatar": "https://cdn-images-2.medium.com/fit/c/36/36/0*6j-zA9TNFU-PZrgt.jpeg",
+    "author": "Alex Bunardzic"
+  }],
+  "pubAvatar": "https://cdn-images-2.medium.com/fit/c/36/36/1*MotlWcSa2n6FrOx3ul89kw.png"
+}
