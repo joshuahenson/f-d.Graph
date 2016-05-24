@@ -8,9 +8,8 @@ $primary: #006400;
 // ****** svg styles ********
 
 .node {
-  stroke: #FFF;
-  stroke-width: 1.5px;
-  fill: $primary;
+  stroke: $primary;
+  stroke-width: 1px;
 }
 
 .link {
