@@ -1,1 +1,19 @@
 // compileExpanded: $1.css
+$primary: #006400;
+
+.container {
+  text-align: center;
+}
+
+// ****** svg styles ********
+
+.node {
+  stroke: #FFF;
+  stroke-width: 1.5px;
+  fill: $primary;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
