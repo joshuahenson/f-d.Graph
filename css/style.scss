@@ -5,14 +5,29 @@ $primary: #006400;
   text-align: center;
 }
 
+.tooltip {
+  position: absolute;
+  padding: 5px;
+  color: $primary;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 1px solid $primary;
+  border-radius: 5px;
+  pointer-events: none;
+  font-family: sans-serif;
+  font-size: 12px;
+  text-align: left;
+  & > h3 {
+    margin: 5px 0;
+  }
+}
+
 // ****** svg styles ********
 
 .node {
-  stroke: $primary;
+  stroke: #333;
   stroke-width: 1px;
 }
 
 .link {
-  stroke: #999;
-  stroke-opacity: 0.6;
+  stroke-width: 1.5px;
 }
